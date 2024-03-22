@@ -2,6 +2,7 @@
 # taskManag
 
 Node API for task management app
+THE ACTUAL CODE IS ON THE MASTER BRANCH
      
 ## Table of Contents
 

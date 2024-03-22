@@ -1,15 +1,28 @@
+
 # taskManag
 
-The actual project code is on the master branch
+Node API for task management app
+     
+## Table of Contents
 
-# Setup
+- [Installation](#installation)
+- [Usage](#usage)
 
-Create a .env file and insert these lines
+## Installation
+     
+```bash
+yarn install
+```
 
-`PORT=
+## Usage
+Create a .env file and insert these lines and make sure mongodb is up and running locally
+
+```bash
+PORT=
 SECRET=
 MONGO_URL=
-`
-make sure you have mongodb up and running locally
-install dependencies using `yarn install`
-to start the project run `yarn dev`
+````
+
+```bash
+yarn dev
+````
